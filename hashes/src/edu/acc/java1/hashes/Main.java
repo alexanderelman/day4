@@ -4,6 +4,7 @@ import javax.swing.JOptionPane;
 import java.security.*;
 import java.util.Base64;
 
+// Completed 10/18/2018
 public class Main {
 	public static void main(String[] args) throws NoSuchAlgorithmException {
 		String input = JOptionPane.showInputDialog(null, "Enter some text:");
